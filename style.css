@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #ffffff;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background: #020617;
+}
+
+button {
+  background: #38bdf8;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+section {
+  margin: 15px;
+  padding: 15px;
+  background: #1e293b;
+  border-radius: 12px;
+}
+
+h1, h2 {
+  margin: 0 0 10px 0;
+}
